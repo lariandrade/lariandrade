@@ -46,5 +46,3 @@ Você pode me encontrar no:
 
 [![Linkedin Bagde](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/larissa-sandrade)
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?lariandrade=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
