@@ -50,4 +50,4 @@ Você pode me encontrar no:
 ---
 ## 🚀 Progresso:
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lariandrade&show_icons=true&theme=dark)
+[![lariandrade](https://github-readme-stats.vercel.app/api?username=lariandrade&show_icons=true&theme=default)](https://github.com/lariandrade/)
