@@ -13,19 +13,6 @@ Entre 2017 a 2019 realizei meu **técnico em informática** na instituição SEN
 
 Dei início a **faculdade de Análise e Desenvolvimento de Sistemas** em agosto/2020 e a conclusão está prevista para 2023, estudo na FATEC (Faculdade de Tecnologia do Estado de São Paulo).
 
-Quais são meus hobbies? 
-- Se eu responder que gosto muito de estudar, seria clichê? Nada melhor do que o conhecimento
-- Assistir séries/filmes
-- Sair com os amigos
-- Ouvir uma boa música
-- Jogar
-- Entre outros
-
-Quais são meus objetivos?
-
-- Me tornar uma desenvolvedora FullStack, mas no momento foco apenas em Front-end.
-- Transmitir meus conhecimentos para pessoas que, assim como eu, estão no início da carreira.
-
 ---
 ## 📝 Estudo
 Atualmente estou estudando:
