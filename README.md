@@ -1,4 +1,4 @@
-## Olá, sejam todos bem vindos ao meu perfil!:slightly_smiling_face:
+## Olá, sejam todos bem vindos ao meu perfil!
 
 ### 📌 Sobre mim
 
