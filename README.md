@@ -7,15 +7,13 @@ Entre 2017 a 2019 realizei meu **técnico em informática** na instituição SEN
 
 Dei início a **faculdade de Análise e Desenvolvimento de Sistemas** em agosto/2020 e a conclusão está prevista para 2023, estudo na FATEC (Faculdade de Tecnologia do Estado de São Paulo).
 
----
 ### 💻 Contato
 
 Você pode me encontrar no:
 
 [![Linkedin Bagde](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/larissa-sandrade)
 
----
-### 🚀 Progresso:
+🚀 Progresso:
 
 [![lariandrade](https://github-readme-stats.vercel.app/api?username=lariandrade&show_icons=true&theme=default)](https://github.com/lariandrade/)
 
