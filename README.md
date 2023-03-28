@@ -15,6 +15,6 @@ Você pode me encontrar no:
 
 ### 🚀 Progresso:
 
-[![lariandrade](https://github-readme-stats.vercel.app/api?username=lariandrade&show_icons=true&theme=default)](https://github.com/lariandrade/)
+[![lariandrade](https://github-readme-stats-sigma-five.vercel.app/api?username=lariandrade&show_icons=true&theme=default)](https://github.com/lariandrade/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lariandrade&layout=compact)](https://github.com/lariandrade/)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lariandrade&layout=compact)](https://github.com/lariandrade/)
