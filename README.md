@@ -9,9 +9,8 @@ Dei início a **faculdade de Análise e Desenvolvimento de Sistemas** em agosto/
 
 ### 💻 Contato
 
-Você pode me encontrar no:
-
 [![Linkedin Bagde](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/larissa-sandrade)
+[![Hotmail Badge](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&&logo=microsoft-outlook&logoColor=white&link=mailto:larissa.sandrade@hotmail.com)](mailto:larissa.sandrade@hotmail.com)
 
 ### 🚀 Progresso:
 
