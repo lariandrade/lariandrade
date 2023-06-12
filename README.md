@@ -1,4 +1,4 @@
-## Olá, Eu sou a Larissa! :smile:
+## Olá, eu sou a Larissa! :smile:
 
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
