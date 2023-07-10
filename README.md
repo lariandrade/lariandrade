@@ -22,9 +22,6 @@
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lariandrade&layout=compact)](https://github.com/lariandrade/)
 
-### 🚀 LeetCode:
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/lariandrade?theme=light&font=Roboto&ext=activity)
 
 ![](https://komarev.com/ghpvc/?username=lariandrade&label=views)
 
