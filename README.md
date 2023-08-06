@@ -22,6 +22,12 @@
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lariandrade&layout=compact)](https://github.com/lariandrade/)
 
+### 🏆 HackerRank
+
+![image](https://github.com/lariandrade/lariandrade/assets/44838761/bf6392b7-f1ba-4a3b-98db-4e2c043b47f9)
+
+[![HackerRank](https://img.shields.io/badge/-Perfil%20Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/larissa_sandrade)
+
 
 ![](https://komarev.com/ghpvc/?username=lariandrade&label=views)
 
