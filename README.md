@@ -24,7 +24,8 @@
 
 ### 🏆 HackerRank
 
-![image](https://github.com/lariandrade/lariandrade/assets/44838761/bf6392b7-f1ba-4a3b-98db-4e2c043b47f9)
+![image](https://github.com/lariandrade/lariandrade/assets/44838761/151da86a-1dba-49be-9e3d-7d00b412b3db)
+
 
 [![HackerRank](https://img.shields.io/badge/-Perfil-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/larissa_sandrade)
 
