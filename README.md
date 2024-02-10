@@ -9,7 +9,6 @@
 - **Build Tools:** Maven.
 - **Database:** MySQL e SQL Server.
 - **Reports:** Crystal Reports e JasperReports.
-- **Version Control:** Bitbucket, Git e Github
 
 
 
