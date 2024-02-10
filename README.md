@@ -1,14 +1,16 @@
 ## Olá, eu sou a Larissa! :smile:
 
+### 🔧 Habilidades Técnicas
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap e Thymeleaf.
+- **Backend:** Java e Spring Boot.
+- **Integração/Entrega Contínua:** Jenkins.
+- **Persistence:** JPA, Hibernate e SpringData.
+- **Test:** JUnit e Mockito.
+- **Build Tools:** Maven.
+- **Database:** MySQL e SQL Server.
+- **Reports:** Crystal Reports e JasperReports.
+- **Version Control:** Bitbucket, Git e Github
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
 
 ### 💻 Contato
