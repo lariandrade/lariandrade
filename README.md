@@ -1,6 +1,6 @@
 ## Olá, eu sou a Larissa! :smile:
 
-### 🔧 Habilidades Técnicas
+### 🔧 Habilidades
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap e Thymeleaf.
 - **Backend:** Java e Spring Boot.
 - **Integração/Entrega Contínua:** Jenkins.
